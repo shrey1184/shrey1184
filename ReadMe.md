@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on projects on machine learning models.<br>I am learning DevOps and Cloud computing.<br>I am also learning the basics of cybersecurity.<br>
+I'm currently working on projects on machine learning models.<br>I am learning machine learning and Cloud computing.<br>
 
 
 ## 🌐 Socials:
