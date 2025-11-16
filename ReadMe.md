@@ -17,15 +17,15 @@ I am good with writing code, not descriptions...
 <div align="center">
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=shrey1184&theme=tokyonight&show_icons=true&hide_border=false" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=shrey1184&theme=tokyonight&show_icons=true&hide_border=true" />
     <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrey1184&theme=tokyonight" />
   </div>
 
   <br/>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey1184&theme=tokyonight&layout=compact&hide_border=false" />
-    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=shrey1184&theme=tokyonight&hide_border=false" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey1184&theme=tokyonight&layout=compact&hide_border=true" />
+    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=shrey1184&theme=tokyonight&hide_border=true" />
   </div>
 
   <br/>
