@@ -16,10 +16,15 @@ I am good with writing code, not descriptions...
 
 <div align="center">
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=shrey1184&theme=tokyonight&show_icons=true&hide_border=true" />
-    <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrey1184&theme=tokyonight" />
-  </div>
+ <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; gap: 10px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shrey1184&theme=tokyonight&show_icons=true&hide_border=true" 
+    style="width: 50%; height: auto;"  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrey1184&theme=tokyonight" 
+    style="width: 50%; height: auto;"  />
+</div>
+
 
   <br/>
 
@@ -49,7 +54,8 @@ I am good with writing code, not descriptions...
 ![](https://github-profile-trophy.vercel.app/?username=shrey1184&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shrey1184&theme=high-contrast&radius=10" alt="shrey1184's Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey1184&theme=high-contrast&radius=10"
+     width="100%" />
 </p>
 
 <picture>
