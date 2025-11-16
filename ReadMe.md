@@ -17,16 +17,15 @@ I am good with writing code, not descriptions...
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrey1184&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey1184&custom_title=Contribution%20Graph&theme=high-contrast" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrey1184&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shrey1184&theme=tokyonight&hide_border=true" height="220px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrey1184&theme=tokyonight" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrey1184&theme=tokyonight" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrey1184&theme=tokyonight" height="200px" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributions-api.jogruber.de/v4/shrey1184?format=svg" width="100%" />
-</p>
 
 
 
