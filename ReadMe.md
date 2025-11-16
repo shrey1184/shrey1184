@@ -17,12 +17,8 @@ I am good with writing code, not descriptions...
 <div align="center">
 
  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; gap: 10px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shrey1184&theme=tokyonight&show_icons=true&hide_border=true" 
-    style="width: 50%; height: auto;"  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrey1184&theme=tokyonight" 
-    style="width: 50%; height: auto;"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrey1184&theme=tokyonight&show_icons=true&hide_border=true" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrey1184&theme=tokyonight" />
 </div>
 
 
