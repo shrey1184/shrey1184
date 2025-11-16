@@ -27,6 +27,55 @@ I am good with writing code, not descriptions...
 </p>
 
 
+# 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- STATS + STREAK -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=shrey1184&theme=tokyonight&show_icons=true&hide_border=false" />
+
+    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=shrey1184&theme=tokyonight&hide_border=false" />
+
+  </div>
+
+  <br/>
+
+  <!-- LANGUAGES + ACTIVITY GRAPH -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey1184&theme=tokyonight&layout=compact&hide_border=false" />
+
+    <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrey1184&theme=tokyonight" />
+
+  </div>
+
+  <br/>
+
+  <!-- ACTIVITY + PROFILE DETAILS -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+    <img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrey1184&theme=tokyonight&hide_border=false&radius=10" />
+
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrey1184&theme=tokyonight" />
+
+  </div>
+
+  <br/>
+
+  <!-- PRODUCTIVE TIME + LANG BY REPO -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrey1184&theme=tokyonight" />
+
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrey1184&theme=tokyonight" />
+
+  </div>
+
+</div>
+
+
 
 
 ## 🏆 GitHub Trophies
