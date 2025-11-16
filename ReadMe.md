@@ -16,6 +16,11 @@ I am good with writing code, not descriptions...
 ![](https://nirzak-streak-stats.vercel.app/?user=shrey1184&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrey1184&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey1184&theme=tokyonight&hide_border=true&area=true" />
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shrey1184&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
