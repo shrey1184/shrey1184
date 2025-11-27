@@ -47,7 +47,7 @@ I am good with writing code, not descriptions...
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-pearl-seven.vercel.app/?username=shrey1184&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=shrey1184&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey1184&theme=high-contrast&radius=10"
